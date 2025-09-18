@@ -19,8 +19,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunexx13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunexx13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunexx13&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<p align="left">Java / Kotlin Backend Developer with 8 years of experience in large projects.<br><br>I worked with several technologies including: Java, Kotlin,  Jsf, Spring, SpringBoot, Aws, Azure, Apache Kafka, RabbitMq, MongoDb, Redis, DynamoDb, Jenkins, Grafana, Prometheus, Git.<br><br>During this time I worked on financial systems projects, marketplace and projects in the aeronautical industry sector.<br><br>Solving problems and helping my teammates is one of my focuses.</p>
 
 ###
 
