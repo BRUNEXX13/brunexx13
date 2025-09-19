@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Java / Kotlin Backend Developer with 8 years of experience in large projects.<br><br>I worked with several technologies including: Java, Kotlin,  Jsf, Spring, SpringBoot, Aws, Azure, Apache Kafka, RabbitMq, MongoDb, Redis, DynamoDb, Jenkins, Grafana, Prometheus, Git.<br><br>During this time I worked on financial systems projects, marketplace and projects in the aeronautical industry sector.<br><br>Solving problems and helping my teammates is one of my focuses.</p>
+<p align="left">Java / Kotlin Backend Developer with 8 years of experience in large projects.<br><br>I worked with several technologies including: Java, Kotlin,  Jsf, Spring, SpringBoot, Aws, Azure, Apache Kafka, RabbitMq, MongoDb, Redis, DynamoDb, Jenkins, Grafana, Prometheus, Git, and others.<br><br>During this time I worked on financial systems projects, marketplace and projects in the aeronautical industry sector.<br><br>Solving problems and helping my teammates is one of my focuses.</p>
 
 ###
 
