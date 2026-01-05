@@ -16,7 +16,7 @@
 
 ###
 
-![GitHub Commits](https://githubstats.com.br/api/stats?username=BRUNEXX13&theme=dark&showBorder=true&language=en&type=commits&days=30)
+![GitHub Commits](https://githubstats.com.br/api/stats?username=BRUNEXX13&theme=dark&showBorder=false&language=en&type=commits&days=90)
 
 ###
 
